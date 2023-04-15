@@ -1,6 +1,6 @@
-setupextras >= 0.1.5
-rootpath >= 0.1.1
-inspecta >= 0.1.3
+setupextras @ git+https://github.com/SatoshiAndKin/python-setupextras@master#egg=setupextras
+rootpath @ git+https://github.com/SatoshiAndKin/python-rootpath@master#egg=rootpath
+inspecta @ git+https://github.com/SatoshiAndKin/python-inspecta@master#egg=inspecta
 
 # # TODO: move these to requirements-dev.txt
 # colour-runner >= 0.0.5
